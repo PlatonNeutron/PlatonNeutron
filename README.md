@@ -2,17 +2,17 @@
 
 ## :man_student: **Who am I ?**
 
-I am a french software developer/IT student
+Hi, I am a Platon Neutron a french software developer and IT student
 
 ## 💻 **My Work**
 
 ## 📲 **Follow me on ...**
-[<img align="left" alt="My Website" width="" src=""/>][Website]
-[<img align="left" alt="My Discord" width="" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/discord.png"/>][Discord]
-[<img align="left" alt="My YouTube" width="" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/youtube.png"/>][YouTube]
-[<img align="left" alt="My Twitch" width="" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitch.png"/>][Twitch]
-[<img align="left" alt="My Twitter" width="" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitter.png"/>][Twitter]
-[<img align="left" alt="My Instagram" width="" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>][Instagram]
+[<img align="left" alt="" width="22px" src=""/>][Website]
+[<img align="left" alt="" width="22px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/discord.png"/>][Discord]
+[<img align="left" alt="" width="22px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/youtube.png"/>][YouTube]
+[<img align="left" alt="" width="22px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitch.png"/>][Twitch]
+[<img align="left" alt="" width="22px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitter.png"/>][Twitter]
+[<img align="left" alt="" width="22px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>][Instagram]
 
 ## 💪 **My Skills**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlatonNeutron&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
