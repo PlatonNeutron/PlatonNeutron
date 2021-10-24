@@ -13,8 +13,8 @@ Hi, I am a Platon Neutron a french software developer and IT student
 [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/youtube.png"/>][YouTube]
 [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitch.png"/>][Twitch]
 [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitter.png"/>][Twitter]
-[<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>][Instagram]  
-  
+[<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>][Instagram]<br/>
+
 ## 💪 **My Skills**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlatonNeutron&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
