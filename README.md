@@ -2,7 +2,7 @@
 
 ## :man_student: **Who am I ?**
 
-Hi, I am a Platon Neutron a french software developer and IT student
+Hi, I am Platon Neutron, a french software developer and an IT student
 
 
 ## 💻 **My Work**
