@@ -19,7 +19,7 @@ Hi, I am Platon Neutron, a french software developer and an IT student
 <br/>
 
 ## 💪 **My Skills**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlatonNeutron&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=PlatonNeutron&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 **GitHub Stats**
 ![Stats](https://github-readme-stats.vercel.app/api?username=PlatonNeutron&show_icons=true&theme=tokyonight&hide_border=true)
