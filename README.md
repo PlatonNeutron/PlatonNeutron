@@ -12,12 +12,12 @@
 
 **<h2 align="center">📲 Follow me on ...</h1>**
 <div align="center">
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/site.png"/>][Website]
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/discord.png"/>][Discord]
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/youtube.png"/>][YouTube]
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitch.png"/>][Twitch]
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitter.png"/>][Twitter]
-    [<img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>][Instagram]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/site.png"/>[Website]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/discord.png"/>[Discord]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/youtube.png"/>[YouTube]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitch.png"/>[Twitch]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/twitter.png"/>[Twitter]
+    <img align="left" alt="" width="50px" src="https://github.com/PlatonNeutron/PlatonNeutron/blob/master/img/instagram.png"/>[Instagram]
 </div>
 
 <br/>
@@ -35,7 +35,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PlatonNeutron&show_icons=true&theme=tokyonight&hide_border=true)
 </div>
-
 
 [Website]: https://geggfiugggi.fr
 [Discord]: https://discord.gg/pNxMVFv
