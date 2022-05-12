@@ -2,7 +2,7 @@
 
 **<h2 align="center">:man_student: Who am I ?</h1>**
 
-<center>Hi, I am Platon Neutron, a french "Interneteur".</center>
+<p align="center">Hi, I am Platon Neutron, a french "Interneteur".</p>
 
 <br/>
 
