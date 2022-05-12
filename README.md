@@ -1,6 +1,6 @@
-# <center>↢ About Me ↣</center>
+<h1 align="center">❇ WELCOME ❇</h1>
 
-## <center>:man_student: **Who am I ?**</center>
+**<h2 align="center">:man_student: Who am I ?</h1>**
 
 <center>Hi, I am Platon Neutron, a french "Interneteur".</center>
 
