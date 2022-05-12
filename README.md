@@ -1,9 +1,8 @@
-# ↢ About Me ↣
+# <center>↢ About Me ↣</center>
 
-## :man_student: **Who am I ?**
+## <center>:man_student: **Who am I ?**</center>
 
-Hi, I am Platon Neutron, a french software developer and an IT student
-
+<center>Hi, I am Platon Neutron, a french "Interneteur".</center>
 
 ## 💻 **My Work**
 
